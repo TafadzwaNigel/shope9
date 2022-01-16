@@ -6,16 +6,7 @@
     
 }
 
-body{ 
-    margin-bottom: 0;
-    margin-left : 0
-    margin-right : 0
-    padding: 0;
-    background-size:auto;
-    background-image: url("background.jpg") ;
-    color: wheat;
-    text-align: center;
-    align-content: center;}
+
 
 img{
     width: 270px;
@@ -61,4 +52,16 @@ img{
 }
 .descripion{
     background-color: rgba(63, 58, 58, 0.35);
+}
+
+body{ 
+    margin-bottom: 0;
+    margin-left : 0
+    margin-right : 0
+    padding: 0;
+    background-size:auto;
+    background-image: url("background.jpg") ;
+    color: wheat;
+    text-align: center;
+    align-content: center;
 }
