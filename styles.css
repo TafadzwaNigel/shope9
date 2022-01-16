@@ -2,15 +2,20 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .main{
+    align-items : centre;
     
+}
+
+body{ 
     margin-bottom: 0;
+    margin-left : 0
+    margin-right : 0
     padding: 0;
     background-size:auto;
     background-image: url("background.jpg") ;
     color: wheat;
     text-align: center;
-    align-content: center;
-}
+    align-content: center;}
 
 img{
     width: 270px;
