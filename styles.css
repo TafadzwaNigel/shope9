@@ -31,10 +31,11 @@ img{
 }
 
 .strip{
+    transform-translate(-40%, 0%);
     background-color: rgba(146, 35, 35, 0.25);
     width:max-content;
-    position:static;
-    margin-bottom: 3cm;
+    position:relative;
+    margin : auto;
 }
 .BOX2{
     transform: translate(100%,0%);
